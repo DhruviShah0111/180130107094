@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1DhruviShah
+- 👋 Hi, I’m @DhruviShah
 - 👀 I’m interested in Java, Machine Learning and Data science
 - 🌱 I’m currently expanding my knowledge of Machine learning 
 - 💞️ I’m looking to collaborate on ...
