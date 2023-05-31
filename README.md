@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DhruviShah
 - 👀 I’m interested in Java, Machine Learning and Data science
-- 🌱 I’m currently expanding my knowledge of Machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a student of DAIICT(DHirubhai Ambani Institue of ICT) pursuing M.tech with ML specialization
+- 💞️ I’m looking to collaborate on ..
+
 
 <!---
 180130107094/180130107094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
