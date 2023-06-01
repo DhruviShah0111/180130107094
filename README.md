@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruviShah
 - 👀 I’m interested in Java, Machine Learning and Data science
-- 🌱 I’m currently a student of DAIICT(DHirubhai Ambani Institue of ICT) pursuing M.tech with ML specialization
+- 🌱 I’m currently a student of DAIICT(Dhirubhai Ambani Institue of ICT) pursuing M.tech with ML specialization
 - 💞️ I’m looking to collaborate on ..
 
 
